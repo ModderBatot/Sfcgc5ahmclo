@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "com.google.android.gms",
-      "status": false,
+      "status": true,
       "installed_error_message": "closed"
     }
   ],
@@ -10,7 +10,7 @@
 
     {
       "package": "com.animohuuuub.pro",
-      "status": false,
+      "status": true,
       "not_installed_error_message": "error404"
     }
   ]
